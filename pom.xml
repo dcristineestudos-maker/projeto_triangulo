@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.projeto_triangulo.Projeto_triangulo</exec.mainClass>
     </properties>
+    <name>projeto_triangulo2</name>
 </project>
